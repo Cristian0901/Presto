@@ -1,0 +1,17 @@
+Implementation with:
+	mkdocs (for documentation)
+
+	projects managers:
+		npm (Nodejs)
+		cargo (rust)
+		nimble (nim)
+		compIt (others)	
+
+CompIt:
+support multiplexation of compilers and interpreters:
+	python
+	npm
+	nim
+	clang/gcc/g++
+	rustc
+	shell

@@ -1,0 +1,13 @@
+{
+    "name": "XXXX",
+    "path": "/home/user/desktop/",
+    "version": "0.0.0",
+    "nid": "000000000000",
+    "author": "Anonimous",
+    "creation date": "00/00/00"
+    /*"commands": {
+        "compile": "compile file",
+        "execute": "execute file",
+        "run": "compile and execute file"
+    }*/
+}
